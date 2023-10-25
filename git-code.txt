@@ -7,3 +7,6 @@ Git is open source, and there is a vast and active community of users and contri
 
 git add
 git commit.
+
+git remote
+git push
